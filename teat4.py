@@ -1,1 +1,1 @@
-print()
+people = int
